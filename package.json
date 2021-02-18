@@ -1,0 +1,13 @@
+{
+  "name": "@eoet/eslint-config",
+  "version": "1.0.0",
+  "description": "eslint config",
+  "main": "index.js",
+  "repository": "https://github.com/eoet/eslint-config.git",
+  "author": "Hiep Nguyen <hoanghiep2004hy@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ]
+}
